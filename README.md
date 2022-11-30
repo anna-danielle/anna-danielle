@@ -1,5 +1,6 @@
 ### Hi there 👋
-HI MY NAME IS ANNA
+Hello, my name is Anna-Danielle, and I am a pre-med graduate student.
+
 <!--
 **anna-danielle/anna-danielle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
